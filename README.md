@@ -1,10 +1,11 @@
 ## Olá! Bem vindo! Eu sou Renato Souza!
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/RenatoHSouza">
     
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RenatoHSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoHSouza&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="left" alt="octocat_github" height="150" style="border-radius:100px;" src="https://octodex.github.com/images/baracktocat.jpg">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RenatoHSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
 </div>
 
 <div style="display: inline_block"><br>
@@ -12,7 +13,6 @@
   <img align="center" alt="Rnt-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rnt-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  
-  <img align="right" alt="octocat_github" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/baracktocat.jpg">
 </div>
 
 ##
