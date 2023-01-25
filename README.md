@@ -1,4 +1,4 @@
-## Olá! Eu sou Renato Souza! 👋 
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hi! My name is Renato Souza! 👋 
 
 <div align="left">
   <a href="https://github.com/Renatohsouza">
