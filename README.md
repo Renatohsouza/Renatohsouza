@@ -1,5 +1,5 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Olá, eu me chamo Renato.👨‍💻 
-
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Olá, eu sou o Renato! 🌱 Seja bem vindo(a) ao meu perfil no GitHub! 👋🏻👨‍💻 
+ 
 <div align="left">
   <a href="https://github.com/Renatohsouza">
    
